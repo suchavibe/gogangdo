@@ -1,0 +1,33 @@
+@charset "EUC-KR";
+#main_container{
+	width:1200px;
+	margin:0px auto;
+	text-align: center;
+}
+.main_product{
+	width:1200px;
+    margin: 100px auto;
+    font-size: 14px;
+}
+td{
+	width:1200px;
+    border-collapse: collapse;
+    border-spacing: 40px 0px;
+}
+.product{
+	width:1200px;
+    padding-right: 22px; 
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+body {
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none
+}
+#productName{
+	text-align: left;	
+}
